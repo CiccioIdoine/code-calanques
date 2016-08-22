@@ -44,5 +44,3 @@ end
 
 
 puts age_in_days(1975, 12, 18).to_i
-ageindays = age_in_days(1975, 12, 18).to_i
-Date.jd(ageindays)
